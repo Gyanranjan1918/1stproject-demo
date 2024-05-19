@@ -1,4 +1,4 @@
 # 1stproject-demo
 This is my first Git Repository
 <br>
-Author- Gyan Ranjan
+Author- Gyan Ranjan (coder)
